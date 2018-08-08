@@ -1,0 +1,8 @@
+# Directed graph (each unordered pair of nodes is saved once): web-NotreDame.txt 
+# DAIICT 201501450 201501037
+# Nodes: 3 Edges: 4
+# FromNodeId	ToNodeId
+0	1
+0	2
+1	2
+2	0

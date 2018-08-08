@@ -1,5 +1,5 @@
-# Directed graph (each unordered pair of nodes is saved once): email-Eu-core.txt 
-# University of Notre Dame web graph from 1999 by Albert, Jeong and Barabasi
+# Directed graph (each unordered pair of nodes is saved once): web-NotreDame.txt 
+# email europe core
 # Nodes: 1005 Edges: 25571
 # FromNodeId	ToNodeId
 0 1
